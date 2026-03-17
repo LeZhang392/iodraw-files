@@ -13,8 +13,11 @@
         <mxCell id="vI2BJIhssewnHyCBN8Dy-8" value="Conv" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vI2BJIhssewnHyCBN8Dy-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="vI2BJIhssewnHyCBN8Dy-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vI2BJIhssewnHyCBN8Dy-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="360" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
