@@ -97,8 +97,11 @@
         <mxCell id="sFqRz-reeLrlyboe0Ek3-80" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFqRz-reeLrlyboe0Ek3-81" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFqRz-reeLrlyboe0Ek3-81" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292.77" y="301" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sFqRz-reeLrlyboe0Ek3-82" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424.71" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
