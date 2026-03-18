@@ -126,9 +126,6 @@
         <mxCell id="sFqRz-reeLrlyboe0Ek3-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sFqRz-reeLrlyboe0Ek3-77" target="sFqRz-reeLrlyboe0Ek3-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sFqRz-reeLrlyboe0Ek3-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=59.70477358744128;exitPerimeter=0;entryX=0.335;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sFqRz-reeLrlyboe0Ek3-76" target="sFqRz-reeLrlyboe0Ek3-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
