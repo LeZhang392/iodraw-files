@@ -80,7 +80,7 @@
           <mxGeometry x="10" y="2.5" width="120" height="800" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-85" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="-30" width="370" height="290" as="geometry" />
+          <mxGeometry x="140" y="-26.5" width="370" height="290" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-65" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#b282c9;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#e1d5e7;container=0;" vertex="1" parent="sFqRz-reeLrlyboe0Ek3-85">
           <mxGeometry x="125.52686814016788" y="7.207130527981183" width="146.6481120657538" height="305.3385165309247" as="geometry" />
