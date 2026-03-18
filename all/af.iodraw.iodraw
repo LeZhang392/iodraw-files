@@ -79,10 +79,10 @@
         <mxCell id="sFqRz-reeLrlyboe0Ek3-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="10" y="2.5" width="120" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="sFqRz-reeLrlyboe0Ek3-65" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="sFqRz-reeLrlyboe0Ek3-65" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#b282c9;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="325.91999999999996" y="7.909999999999999" width="158.79" height="334.91" as="geometry" />
         </mxCell>
-        <mxCell id="sFqRz-reeLrlyboe0Ek3-75" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="sFqRz-reeLrlyboe0Ek3-75" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#b282c9;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="342.24" y="14.37" width="131.34" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-76" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#b282c9;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;gradientColor=#e1d5e7;" vertex="1" parent="1">
