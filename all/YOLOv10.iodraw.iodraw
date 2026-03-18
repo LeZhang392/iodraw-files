@@ -115,10 +115,10 @@
           <mxGeometry x="200" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mmgbTLQADNbaYuL32WD--11" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="449" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="446.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mmgbTLQADNbaYuL32WD--13" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="720" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mmgbTLQADNbaYuL32WD--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mmgbTLQADNbaYuL32WD--14" target="mmgbTLQADNbaYuL32WD--15">
           <mxGeometry relative="1" as="geometry" />
