@@ -91,7 +91,7 @@
         <mxCell id="sFqRz-reeLrlyboe0Ek3-77" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=14.267393678099241;rotation=65;direction=north;flipH=0;flipV=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="349.51" y="1.8699999999999992" width="108.64" height="164.07" as="geometry" />
         </mxCell>
-        <mxCell id="sFqRz-reeLrlyboe0Ek3-41" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sFqRz-reeLrlyboe0Ek3-41" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;B5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-80" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
