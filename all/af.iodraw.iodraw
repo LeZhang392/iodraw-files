@@ -92,16 +92,16 @@
           <mxGeometry x="349.51" y="1.8699999999999992" width="108.64" height="164.07" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-41" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-80" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265.92" y="134.37" width="60" height="30" as="geometry" />
+          <mxGeometry x="250.00000000000003" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-81" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="229.99999999999997" y="188.87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFqRz-reeLrlyboe0Ek3-82" value="&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 25px;&quot;&gt;B2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="424.71" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="189.99999999999997" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
