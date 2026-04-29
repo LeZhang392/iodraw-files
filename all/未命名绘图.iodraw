@@ -142,13 +142,7 @@
         <mxCell id="85pVsLcR1Lo3uxpd0RiO-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="370" as="sourcePoint" />
-            <mxPoint x="310" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="85pVsLcR1Lo3uxpd0RiO-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="460" as="sourcePoint" />
-            <mxPoint x="310" y="480" as="targetPoint" />
+            <mxPoint x="290" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
